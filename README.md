@@ -1,1 +1,2 @@
-# Projeto de tratamento de dados climáticos utilizando as biblitecas pandas e plotly.
+# Projeto de tratamento de dados climáticos
+## Foram utilizadas as biblitecas pandas e plotly.
