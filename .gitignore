@@ -1,0 +1,4 @@
+#Gitignore para o github ignorar a pasta zipada do projeto
+trabalho2.zip/
+#Ignorar a pasta da primeira parte do projeto
+trabalho.py/
